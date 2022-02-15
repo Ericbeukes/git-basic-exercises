@@ -1,0 +1,21 @@
+    1  su -
+    2  reboot
+    3  pwd
+    4  ls
+    5  cd git-basic-exercises/
+    6  ls
+    7  git branch
+    8  git checkout milkshake-flavours 
+    9  nano milkshakes.md
+   10  cat milkshakes.md 
+   11  git status
+   12  git add milkshakes.md 
+   13  git commit -m "added initial flavours"
+   14  git status
+   15  git log
+   16  git checkout master
+   17  git branch
+   18  git checkout -b history
+   19  git branch
+   20  git log
+   21  history > history.txt
