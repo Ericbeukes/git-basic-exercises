@@ -19,3 +19,52 @@
    19  git branch
    20  git log
    21  history > history.txt
+<<<<<<< HEAD
+=======
+   22  git add history.txt 
+   23  git commit "added history"
+   24  git log
+   25  git checkout milkshake-flavours 
+   26  git branch
+   27  git log
+   28  ls 
+   29  nano README.md 
+   30  git add README.md 
+   31  git commit README.md 
+   32  git commit -m "random readme changes"
+   33  git checkout history
+   34  git branch
+   35  cat README.md 
+   36  git btranch
+   37  git branch
+   38  rm README.md 
+   39  echo "booya" > R
+   40  rm R
+   41  echo "booya" > README.md
+   42  git add README.md 
+   43  git commit -m "rewrote readme"
+   44  git checkout master
+   45  git branch
+   46  ls
+   47  git log
+   48  git checkout milkshake-flavours 
+   49  ls
+   50  git checkout history 
+   51  ls
+   52  git checkout milkshake-flavours 
+   53  ls
+   54  git log
+   55  git checkout history 
+   56  ls
+   57  pwd
+   58  ls
+   59  git checkout milkshake-flavours 
+   60  ls
+   61  rm history.txt 
+   62  ls
+   63  git checkout history 
+   64  ls
+   65  git branch
+   66  ls
+   67  history > history.txt
+>>>>>>> history
